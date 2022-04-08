@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1047614157701",
+    "project_id": "sos-emergency-17f57",
+    "storage_bucket": "sos-emergency-17f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047614157701:android:3861ac78b54e2c6e604aec",
+        "android_client_info": {
+          "package_name": "com.example.SafeU_Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LHYWxObZuAqZ0LoLd7iRf2JVfWubntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047614157701:android:43a7bf28d1e82761604aec",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LHYWxObZuAqZ0LoLd7iRf2JVfWubntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047614157701:android:8d525c44314267bc604aec",
+        "android_client_info": {
+          "package_name": "com.grace.safeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LHYWxObZuAqZ0LoLd7iRf2JVfWubntA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047614157701-o0nr46ouusnamm667b3ru0li1cumruuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
